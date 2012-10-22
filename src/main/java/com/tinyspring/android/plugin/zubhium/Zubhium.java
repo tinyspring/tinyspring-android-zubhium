@@ -1,4 +1,4 @@
-package com.tinyspring.android.zubhium;
+package com.tinyspring.android.plugin.zubhium;
 
 import com.h2.tinyspring.android.Application;
 import com.h2.tinyspring.android.plugin.APlugin;
@@ -13,11 +13,11 @@ import com.zubhium.ZubhiumSDK;
  * @author 35pr17
  *
  */
-public class ZubhiumPlugin extends APlugin {
+public class Zubhium extends APlugin {
 	
 	private String key;
 
-	public ZubhiumPlugin(String key) {
+	public Zubhium(String key) {
 		this.key = key;
 	}
 
