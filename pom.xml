@@ -7,7 +7,7 @@
   <version>0.0.1</version>
   <packaging>jar</packaging>
 
-  <name>tinyspring-android-zubhium</name>
+  <name>tinyspring-android-plugin-zubhium</name>
   <url>http://maven.apache.org</url>
 
   <properties>
